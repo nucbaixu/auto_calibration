@@ -16,3 +16,4 @@ monitor (AVM) system simultaneously in a natural driving situation
   by Kyoungtaek Choi, Ho Gi Jung, and Jae Kyu Suhr
 
 - This repository only includes header files of the project due to privacy reason
+- 环视标定，只提供了架构，函数，没有具体实现
